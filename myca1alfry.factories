@@ -1,0 +1,32 @@
+{
+	"id"          : "myca1alfry",
+	"title"       : "myca1alfry",
+	"author"      : "ale",
+	"description" : "CA with air-ctrl, hot-switch, inf-ammo, vampiric, faster-rg",
+	"basegt"      : "ca",
+	"cvars"       : {
+		"sv_mapPoolFile"        : "mappool_myca1alfry.txt",
+		
+		"g_startingHealthBonus" : "0",
+		"g_startingHealth"      : "200",
+		"g_startingArmor"       : "100",
+		"g_allowKill"           : "0",
+		"dmflags"               : "28",
+		"pmove_AirControl"      : "1",
+		"pmove_WeaponRaiseTime" : "0",
+		"pmove_WeaponDropTime"  : "0",
+		"g_vampiricDamage"      : "0.75",
+		
+		"g_infiniteAmmo"        : "1",
+		"g_startingWeapons"     : "8447",
+		"g_startingAmmo_mg"     : "-1",
+		"g_startingAmmo_sg"     : "-1",
+		"g_startingAmmo_gl"     : "-1",
+		"g_startingAmmo_rl"     : "-1",
+		"g_startingAmmo_lg"     : "-1",
+		"g_startingAmmo_rg"     : "-1",
+		"g_startingAmmo_pg"     : "-1",
+		"g_startingAmmo_hmg"    : "-1",
+		"weapon_reload_rg"      : "1000"
+	}
+}
