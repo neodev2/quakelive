@@ -1,0 +1,31 @@
+{
+	"id"          : "myffa1",
+	"title"       : "myffa1",
+	"author"      : "ale",
+	"description" : "FFA with air-ctrl, hot-switch, inf-ammo, vampiric, no splash damage",
+	"basegt"      : "ffa",
+	"cvars"       : {
+		"sv_mapPoolFile"        : "mappool_myffa1.txt",
+		
+		"g_startingHealthBonus" : "0",
+		"g_startingHealth"      : "100",
+		"g_startingArmor"       : "200",
+		"g_allowKill"           : "0",
+		"dmflags"               : "28",
+		"pmove_AirControl"      : "1",
+		"pmove_WeaponRaiseTime" : "0",
+		"pmove_WeaponDropTime"  : "0",
+		"g_vampiricDamage"      : "0.75",
+		
+		"g_infiniteAmmo"        : "1",
+		"g_startingWeapons"     : "8447",
+		"g_startingAmmo_mg"     : "-1",
+		"g_startingAmmo_sg"     : "-1",
+		"g_startingAmmo_gl"     : "-1",
+		"g_startingAmmo_rl"     : "-1",
+		"g_startingAmmo_lg"     : "-1",
+		"g_startingAmmo_rg"     : "-1",
+		"g_startingAmmo_pg"     : "-1",
+		"g_startingAmmo_hmg"    : "-1"
+	}
+}
